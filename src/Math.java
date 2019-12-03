@@ -5,8 +5,8 @@ public class Math {
         int sum = first+second;
         return sum;
     }
-    public int sub(int first, int second){
-        int diff=first-second;
+    public int sub(int first, int b){
+        int diff=first-b;
         return diff;
     }
 }
